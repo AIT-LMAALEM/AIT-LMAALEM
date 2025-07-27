@@ -1,16 +1,14 @@
 <h1 align="center">Salut 👋, je suis AIT LMAALEM MHAMED </h1>
 <h3 align="center">🎓 Étudiant à l'ENSAM Casablanca </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhamed-aitlmaalem&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ---
 
-- 🏫 Étudiant en *1ère année* à l’*ENSAM Casablanca*
+- 🏫 Étudiant en 1ère année* à l’*ENSAM Casablanca*
 - 💻 Passionné par le *développement* et la *cybersécurité*
-- 🐍 Je code principalement en *Python, et j’apprends aussi le **C*
-- 🔧 Je maîtrise Git, GitHub, Excel, et j’utilise **LaTeX* pour mes rapports techniques
+- 🐍 Je code principalement en Python, et j’apprends aussi le C
+- 🔧 Je maîtrise Git, GitHub, Excel, et j’utilise *LaTeX* pour mes rapports techniques
 - 🌱 J’apprends chaque jour de nouvelles choses et je repousse mes limites
 - 🎯 Mon objectif : devenir *expert en cybersécurité* et contribuer à un web plus sûr
 
@@ -22,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png" alt="GitHub" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
 </p>
 
@@ -47,7 +44,6 @@
 
 ---
 
-> 🔒 "Mon rêve : devenir un professionnel en cybersécurité et contribuer à la sécurité du monde numérique."
 
 ---
 

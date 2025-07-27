@@ -8,9 +8,9 @@
 ---
 
 - 🎓 Je suis actuellement étudiant en *1ère année* à l'*ENSAM Casablanca*
-- 🐍 Je programme en *Python* et j'apprends aussi le langage *C*
-- 💻 Je maîtrise *Git, **GitHub, **Excel, et j’utilise **LaTeX* pour mes documents techniques
-- 🔐 Mon objectif est de devenir *expert en cybersécurité*
+- 🐍 Je programme en Python et j'apprends aussi le langage C
+- 💻 Je maîtrise Git, GitHub, Excel, et j’utilise LaTeX pour mes documents techniques
+- 🔐 Mon objectif est de devenir expert en cybersécurité
 - 🚀 J'aime apprendre continuellement et relever des défis techniques
 
 ---
@@ -20,10 +20,10 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
+  <img src="https://datascientest.com/wp-content/uploads/2024/03/git.jpg" alt="git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/langfr-250px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/>
+  <img src="https://www.altam.fr/wp-content/uploads/2024/01/Excel-logo.png" alt="excel" width="40" height="40"/>
 </p>
 
 ---

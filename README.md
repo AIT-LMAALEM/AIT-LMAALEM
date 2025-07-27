@@ -5,7 +5,7 @@
 
 ---
 
-- 🏫 Étudiant en 1ère année* à l’*ENSAM Casablanca*
+- 🏫 Étudiant en 1ère année à l’*ENSAM Casablanca*
 - 💻 Passionné par le *développement* et la *cybersécurité*
 - 🐍 Je code principalement en Python, et j’apprends aussi le C
 - 🔧 Je maîtrise Git, GitHub, Excel, et j’utilise *LaTeX* pour mes rapports techniques

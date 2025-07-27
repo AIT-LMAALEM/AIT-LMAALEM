@@ -1,46 +1,56 @@
-<h1 align="center">Salut 👋, je suis AIT LMAALEM Mhamed</h1>
-<h3 align="center">Étudiant à l'ENSAM Casablanca | Passionné par le développement et la cybersécurité</h3>
+<h1 align="center">Salut 👋, je suis AIT LMAALEM MHAMED </h1>
+<h3 align="center">🎓 Étudiant à l'ENSAM Casablanca </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mhamed-aitlmaalem&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mhamed-aitlmaalem&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-- 🎓 Je suis actuellement étudiant en *1ère année* à l'*ENSAM Casablanca*
-- 🐍 Je programme en Python et j'apprends aussi le langage C
-- 💻 Je maîtrise Git, GitHub, Excel, et j’utilise LaTeX pour mes documents techniques
-- 🔐 Mon objectif est de devenir expert en cybersécurité
-- 🚀 J'aime apprendre continuellement et relever des défis techniques
+- 🏫 Étudiant en *1ère année* à l’*ENSAM Casablanca*
+- 💻 Passionné par le *développement* et la *cybersécurité*
+- 🐍 Je code principalement en *Python, et j’apprends aussi le **C*
+- 🔧 Je maîtrise Git, GitHub, Excel, et j’utilise **LaTeX* pour mes rapports techniques
+- 🌱 J’apprends chaque jour de nouvelles choses et je repousse mes limites
+- 🎯 Mon objectif : devenir *expert en cybersécurité* et contribuer à un web plus sûr
 
 ---
 
 ### 🧰 Langages et Outils
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/>
-  <img src="https://datascientest.com/wp-content/uploads/2024/03/git.jpg" alt="git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/langfr-250px-GitHub_Invertocat_Logo.svg.png" alt="github" width="40" height="40"/>
-  <img src="https://www.altam.fr/wp-content/uploads/2024/01/Excel-logo.png" alt="excel" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/30/2/github-logo-png_seeklogo-304612.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/>
 </p>
 
 ---
 
-### 📈 Statistiques GitHub
+### 📊 Mes statistiques GitHub
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mhamed-aitlmaalem&show_icons=true&locale=fr" alt="mhamed-aitlmaalem" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhamed-aitlmaalem&show_icons=true&locale=fr&theme=tokyonight" alt="Stats GitHub" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhamed-aitlmaalem&show_icons=true&locale=fr&layout=compact" alt="Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhamed-aitlmaalem&show_icons=true&locale=fr&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
 
 ---
 
 ### 📫 Me contacter
 
-- 📧 Email : mhamed.aitlmaalem13@gmail.com  
-- 🌍 Casablanca, Maroc
+- 📧 *Email* : mhamed.aitlmaalem13@gmail.com  
+- 📍 *Localisation* : Casablanca, Maroc
+
+---
+
+> 🔒 "Mon rêve : devenir un professionnel en cybersécurité et contribuer à la sécurité du monde numérique."
+
+---
+
+<p align="center">
+  <b>Merci pour votre visite !</b> 👀  
+</p>

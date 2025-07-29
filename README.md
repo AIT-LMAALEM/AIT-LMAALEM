@@ -1,6 +1,6 @@
-<h1 align="center">Salut 👋, je suis AIT LMAALEM MHAMED </h1>
-<h3 align="center">🎓 Étudiant à l'ENSAM Casablanca </h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Salut+👋,+je+suis+AIT+LMAALEM+MHAMED;Étudiant+à+l’ENSAM+Casablanca;Passionné+par+le+développement+et+la+cybersécurité&center=true&width=500&height=50&duration=3000&pause=1000&color=36BCF7&vCenter=true" alt="Typing SVG" />
+</p>
 
 
 ---

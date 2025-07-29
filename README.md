@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F79A36&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Salut+👋,+je+suis+AIT+LMAALEM+MHAMED;Étudiant+à+l'ENSAM+Casablanca;💻+Passionné+par+le+développement+et+la+cybersécurité" alt="Typing SVG" />
-</p>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F79A36&center=true&vCenter=true&multiline=true&width=600&lines=Salut+👋,+je+suis+AIT+LMAALEM+MHAMED;🎓+Étudiant+à+l’ENSAM+Casablanca;💻+Passionné+par+la+cybersécurité+et+le+développement"  />
+  </a>
+</h1>
 ---
 
 - 🏫 Étudiant en 1ère année à l’*ENSAM Casablanca*

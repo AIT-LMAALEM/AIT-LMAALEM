@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F79A36&center=true&vCenter=true&multiline=true&width=600&lines=Salut👋+je+suis+AIT+LMAALEM+MHAMED;🎓+Étudiant+à+l’ENSAM+Casablanca;💻+Passionné+par+la+cybersécurité+et+le+développement"  />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F79A36&center=true&vCenter=true&multiline=true&width=600&lines=Salut👋+je+suis+AIT+LMAALEM+MHAMED;🎓+Étudiant+à+l’ENSAM+Casablanca+1ér+anée+;💻+Passionné+par+la+cybersécurité+et+le+développement"  />
   </a>
 </h1>
 ---
